@@ -1,1 +1,1 @@
-# Markdown-Generator
+# markdown-generator
